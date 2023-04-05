@@ -21,7 +21,7 @@ Submit a .zip file named `name.number.zip` (e.g., `chao.209.zip`) with the follo
 
 * You will see a folder `for_display`, which simply contains some images used for display here.
 
-* You can find the algorithm in your HW # 5 Problem set, Section 1 (i.e., Q1). Please see the lecture slide deck 20 for some more details on the implementation.
+* You can find the algorithm in your HW # 5 Problem set, Section 1 (i.e., Q1). Please see the lecture slide deck 22-23 for some more details on the implementation.
 
 * Please use python3 and write your solutions from scratch. 
 
